@@ -36,7 +36,8 @@ document.write(trariable.link("http://www.uleam.edu.ec/"));
 document.write(<header><h3>Audio</h3></header><audio controls='controls'> <source src='D:\music\Prince Royce - Darte Un Beso (iTunes) (Www.FlowHoT.NeT).mp3' type='audio/mp3' /></audio>")
 </script>
 
-<header><h3>Audio</h3></header><audio controls='controls'> <source src='D:\music\Prince Royce - Darte Un Beso (iTunes) (Www.FlowHoT.NeT).mp3' type='audio/mp3' /></audio>"
-
+</br><script>
+document.write("<audio controls='controls'> <source src='D:\music\Prince Royce - Darte Un Beso (iTunes) (Www.FlowHoT.NeT).mp3' type='audio/mp3' /></audio>")
+</script>
 </body>
 </html>
