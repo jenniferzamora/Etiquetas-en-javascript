@@ -1,5 +1,6 @@
 Etiquetas-en-javascript
 =======================
+<!DOCTYPE HTML>
 <html>
 <body>
 <script>
@@ -38,6 +39,11 @@ document.write(<header><h3>Audio</h3></header><audio controls='controls'> <sourc
 
 </br><script>
 document.write("<audio controls='controls'> <source src='D:\music\Prince Royce - Darte Un Beso (iTunes) (Www.FlowHoT.NeT).mp3' type='audio/mp3' /></audio>")
+document.write("</br><progress value='60' max='100'><span id='descargando'>60</span>%</progress><br><meter min='0' max='120' value='40'><span>1/3</span></meter><br><header>")
+document.write("<form oninput='x.value=parseInt(a.value)+parseInt(b.value)'>0<input type='range' id='a' value='50'>100+<input type='number' id='b' value='50'>=<output name='x' for='a b'></output></form>")
+<script>
+document.write("</br><form action='demo_keygen.php' method='get'>Nombre:<input type='text' name='usr_name' /> Encriptacion: <keygen name='security'></keygen> <input type='submit' /></form>")
+</script>
 </script>
 </body>
 </html>
